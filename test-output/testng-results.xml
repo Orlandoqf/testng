@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SuiteSearch" duration-ms="15472" started-at="2021-11-27T21:22:46Z" finished-at="2021-11-27T21:23:02Z">
+    <groups>
+    </groups>
+    <test name="Search Blouses" duration-ms="5615" started-at="2021-11-27T21:22:46Z" finished-at="2021-11-27T21:22:52Z">
+      <class name="com.reportsExample.qs.SearchBlouses">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.reportsExample.qs.SearchBlouses@2b80d80f]" name="beforeClass" is-config="true" duration-ms="4517" started-at="2021-11-27T16:22:46Z" finished-at="2021-11-27T16:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="search_Blouses()[pri:0, instance:com.reportsExample.qs.SearchBlouses@2b80d80f]" name="search_Blouses" duration-ms="1046" started-at="2021-11-27T16:22:51Z" finished-at="2021-11-27T16:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_Blouses -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.reportsExample.qs.SearchBlouses@2b80d80f]" name="afterClass" is-config="true" duration-ms="44" started-at="2021-11-27T16:22:52Z" finished-at="2021-11-27T16:22:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsExample.qs.SearchBlouses -->
+    </test> <!-- Search Blouses -->
+    <test name="Search Summer Dresses" duration-ms="4825" started-at="2021-11-27T21:22:52Z" finished-at="2021-11-27T21:22:57Z">
+      <class name="com.reportsExample.qs.SearchSummerDresses">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.reportsExample.qs.SearchSummerDresses@5ba23b66]" name="beforeClass" is-config="true" duration-ms="3667" started-at="2021-11-27T16:22:52Z" finished-at="2021-11-27T16:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="search_SummerDresses()[pri:0, instance:com.reportsExample.qs.SearchSummerDresses@5ba23b66]" name="search_SummerDresses" duration-ms="1118" started-at="2021-11-27T16:22:55Z" finished-at="2021-11-27T16:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_SummerDresses -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.reportsExample.qs.SearchSummerDresses@5ba23b66]" name="afterClass" is-config="true" duration-ms="39" started-at="2021-11-27T16:22:57Z" finished-at="2021-11-27T16:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsExample.qs.SearchSummerDresses -->
+    </test> <!-- Search Summer Dresses -->
+    <test name="Search Chiffon Dresses" duration-ms="5014" started-at="2021-11-27T21:22:57Z" finished-at="2021-11-27T21:23:02Z">
+      <class name="com.reportsExample.qs.SearchChiffonDresses">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.reportsExample.qs.SearchChiffonDresses@35bbe5e8]" name="beforeClass" is-config="true" duration-ms="3908" started-at="2021-11-27T16:22:57Z" finished-at="2021-11-27T16:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="search_ChiffonDresses()[pri:0, instance:com.reportsExample.qs.SearchChiffonDresses@35bbe5e8]" name="search_ChiffonDresses" duration-ms="1066" started-at="2021-11-27T16:23:01Z" finished-at="2021-11-27T16:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search_ChiffonDresses -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.reportsExample.qs.SearchChiffonDresses@35bbe5e8]" name="afterClass" is-config="true" duration-ms="39" started-at="2021-11-27T16:23:02Z" finished-at="2021-11-27T16:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.reportsExample.qs.SearchChiffonDresses -->
+    </test> <!-- Search Chiffon Dresses -->
+  </suite> <!-- SuiteSearch -->
+</testng-results>
